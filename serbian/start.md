@@ -8,4 +8,8 @@ Mlada radnica ga je ljubazno gledala. Rekla je:
 
 "Želite li i jogurt ?" [klikni ovde](burekMeso/burekMeso.md)
 
+"Ili mozda dva ?"
+"Ili mozda tri?"[klikni ovde](noveIdeje/noveIdeje.md)
+
 This is what Jackie added!!!
+

@@ -239,6 +239,8 @@ Do you:
 
 [Blackout and wake up in a strange place without knowing how](33hours/wakingup.md)
 
+Take out your [knitting project](knit/knit.md) and finish your sock heel turn.
+
 [Realize you are in the ...](in-matrix/matrix.md)
 
 [Realize you better call Saul](better-call-saul/saul.md)
@@ -731,3 +733,5 @@ Yourself?
 Instead of reading this entire story, you decide to go see the new star wars!
 
 You decide that $1.5 billion is too much to pass up, so you buy a [Powerball ticket](powerball/powerball.md).
+
+[Do you have my stapler?](stapler/stapler.md)
